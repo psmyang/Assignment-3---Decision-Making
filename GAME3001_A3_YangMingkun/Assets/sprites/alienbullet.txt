@@ -1,0 +1,10 @@
+Ebullet-moving-0 80 80 92 23
+Ebullet-moving-1 160 80 92 23
+Ebullet-moving-2 240 80 92 23
+Ebullet-moving-3 320 80 92 23
+Ebullet-colliding-0 160 120 60 36
+Ebullet-colliding-0 320 120 60 36
+Ebullet-colliding-0 480 120 60 36
+Ebullet-colliding-0 640 120 60 36
+
+

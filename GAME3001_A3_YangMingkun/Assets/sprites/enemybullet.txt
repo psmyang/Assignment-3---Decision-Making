@@ -1,0 +1,1 @@
+bullet-moving-0 1 1 70 46
